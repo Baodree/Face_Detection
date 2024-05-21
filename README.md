@@ -8,7 +8,7 @@ Face Recognition is one of the major challenges that researchers in Machine Lear
 The dataset consists of 10 directories, with each directory containing images of a person named after the directory. You can create additional directories with the New_Student.ipynb file.
 Some images included in the dataset:
 
-![](Face_Detection/asset/img/1.png)
+![](asset/img/1.png)
 
 Two Google links are used to manage students during the software execution:
 
