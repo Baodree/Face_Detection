@@ -1,0 +1,7 @@
+arguments: Face_Detection/src/align_dataset_mtcnn.py Face_Detection/dataset/FaceData/raw/Ciao Face_Detection/dataset/FaceData/processed --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+--------------------
+tensorflow version: 2.16.1
+--------------------
+git hash: b''
+--------------------
+b''

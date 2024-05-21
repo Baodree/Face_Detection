@@ -1,0 +1,8 @@
+Face_Detection/dataset/FaceData/processed\Johnny Depp\Johnny_Depp_107.png
+Face_Detection/dataset/FaceData/processed\Johnny Depp\Johnny_Depp_99.png
+Face_Detection/dataset/FaceData/processed\Lionel Messi\Lionel_Messi_22.png
+Face_Detection/dataset/FaceData/processed\Cristiano Ronaldo\Cristiano_Ronaldo_49.png
+Face_Detection/dataset/FaceData/processed\Cristiano Ronaldo\Cristiano_Ronaldo_56.png
+Face_Detection/dataset/FaceData/processed\Taylor Swift\Taylor_Swift_10.png
+Face_Detection/dataset/FaceData/processed\Taylor Swift\Taylor_Swift_54.png
+Face_Detection/dataset/FaceData/processed\Taylor Swift\Taylor_Swift_64.png
